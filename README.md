@@ -1,13 +1,9 @@
-Use [![Join the chat at https://gitter.im/learnbyexample/scripting_course](https://badges.gitter.im/learnbyexample/scripting_course.svg)](https://gitter.im/learnbyexample/scripting_course) if you need help, have suggestions, etc
-
-<br>
-
 # <a name="linux-command-line"></a>Linux Command Line
 
 Introduction to Linux commands and Shell scripting
 
 * [Linux curated resources](https://github.com/learnbyexample/scripting_course/blob/master/Linux_curated_resources.md) for more complete resources list, including tutorials for beginners
-* For more related resources, visit [scripting course](https://github.com/learnbyexample/scripting_course)
+* For more related resources, visit [scripting course](https://github.com/learnbyexample/scripting_course) and my programming blog https://learnbyexample.github.io
 
 <br>
 
@@ -32,10 +28,19 @@ Introduction to Linux commands and Shell scripting
 
 <br>
 
+## <a name="contributing"></a>Contributing
+
+* Please open an issue for typos/bugs/suggestions/etc
+    * **Please open an issue for discussion before submitting PRs**
+* Share the repo with friends/colleagues, on social media, etc to help reach other learners
+* In case you need to reach me, mail me at `echo 'bGVhcm5ieWV4YW1wbGUubmV0QGdtYWlsLmNvbQo=' | base64 --decode` or send a DM via [twitter](https://twitter.com/learn_byexample)
+
+<br>
+
 # <a name="ebook"></a>ebook
 
 * Read as ebook on [gitbook](https://learnbyexample.gitbooks.io/linux-command-line/content/index.html)
-* Download ebook for offline reading - [link](https://www.gitbook.com/book/learnbyexample/linux-command-line/details)
+* All `legacy.gitbook.com` links are now automatically redirected to `gitbook.com`, so there's no longer an option to download ebooks for offline reading
 
 <br>
 
@@ -43,10 +48,11 @@ Introduction to Linux commands and Shell scripting
 
 * [unix.stackexchange](https://unix.stackexchange.com/) and [stackoverflow](https://stackoverflow.com/) - for getting answers to pertinent questions as well as sharpening skills by understanding and answering questions
 * [Devs and Hackers](http://devup.in/) - helpful slack group
-* [Weekly Coders, Hackers & All Tech related thread](https://www.reddit.com/r/india/search?q=Weekly+Coders%2C+Hackers+%26+All+Tech+related+thread+author%3Aavinassh&amp;restrict_sr=on&amp;sort=new&amp;t=all) - for suggestions and critique
+* Forums like [/r/commandline/](https://www.reddit.com/r/commandline/), [Weekly Coders, Hackers & All Tech related thread](https://www.reddit.com/r/india/search?q=Weekly+Coders%2C+Hackers+%26+All+Tech+related+thread+author%3Aavinassh&amp;restrict_sr=on&amp;sort=new&amp;t=all) - for suggestions and critique
 
 <br>
 
 # <a name="license"></a>License
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
